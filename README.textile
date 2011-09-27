@@ -1,0 +1,8 @@
+h1. jGrowl
+
+This is a mirror to the original "Mercurial repository":https://bitbucket.org/stanlemon/jgrowl/.
+
+Some changes are made in this repository and (when I have time) tended to be pushed to the original repo.
+
+This is not my work at all. Kudos to *Stan Lemon* who did this plugin.
+More information you can find in "his website":http://stanlemon.net/projects/jgrowl.html
